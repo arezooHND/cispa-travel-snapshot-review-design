@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mac zip artifacts
+__MACOSX/
+
+# Personal notes / assignment brief
+Brief.docx
+_Brief.docx
