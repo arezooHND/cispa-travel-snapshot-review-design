@@ -60,8 +60,6 @@ These concepts were later refined and evolved into the final design presented in
 - wireframe_v1.pdf — Side-by-side spreadsheet comparison
 - wireframe_v2.pdf — Unified audit table
 
-### Editable Source
-
 Figma:
 https://www.figma.com/design/16zSGlybfUYxlOwXEbhShl/CISPA-%E2%80%93-Take-home-Design-Exercise?node-id=24-666&m=dev&t=LJ2K1ALkMnyONuv7-1
 
