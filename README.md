@@ -57,10 +57,18 @@ These concepts were later refined and evolved into the final design presented in
 
 ### Early Wireframes
 
-- wireframe_v1.png — Side-by-side spreadsheet comparison
-- wireframe_v2.png — Unified audit table
+- wireframe_v1.pdf — Side-by-side spreadsheet comparison
+- wireframe_v2.pdf — Unified audit table
 
 ### Editable Source
 
 Figma:
 https://www.figma.com/design/16zSGlybfUYxlOwXEbhShl/CISPA-%E2%80%93-Take-home-Design-Exercise?node-id=24-666&m=dev&t=LJ2K1ALkMnyONuv7-1
+
+### Final Wireframes
+
+- wireframe_v1.pdf — Unified change table
+- wireframe_v2.pdf — Changes-first digest
+
+Figma:
+https://www.figma.com/design/16zSGlybfUYxlOwXEbhShl/CISPA-%E2%80%93-Take-home-Design-Exercise?node-id=13-1831&m=dev&t=ynHeB0mVAn0zw80G-1
